@@ -1,0 +1,164 @@
+--------------------------------------------------------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Mastering Generative AI and Advanced Promting
+GenAI - type of AI that creates entirely new things
+
+Russian nesting dolls
+AI 
+Machine Learning subset of AI
+Deep Learning is subset of Machine Learning
+GenAI is a subset of Deep Learning
+
+GenAI is not perfect, which creates answers with confident but facts are wrong, then it's a AI hallucination
+
+=======================================================
+Notes:
+Understanding Generative AI: The Layers
+Artificial Intelligence (AI)
+
+The broadest concept; machines performing tasks that typically require human intelligence.
+
+Machine Learning (ML)
+
+A subset of AI; machines learn how to identify patterns and make predictions from data.
+
+Deep Learning (DL)
+
+A subset of ML; uses layered neural networks to process vast amounts of data.
+
+Generative AI (Gen AI)
+
+A subset of DL; creates new content (text, images, audio, and video) based on learned patterns.
+=======================================================
+Prompt > Tokens > Self attention > Transformers > LLM large language model
+
+from prompt
+broken them with tokens tagging them with embeddings
+and passing them through a neural network
+along the way, transformers analyzed relationships between words using self attention
+while the LLM leveraged its vast knowledge to generate a coherent, accurate response
+==========================================================
+Notes:
+Generative AI Express: From Prompt to Answer
+1. The Prompt
+
+Your instruction or question to the AI begins the process.
+
+2. Tokens
+
+The prompt is broken down into tokens (small pieces of information such as words or parts of words).
+
+3. Embeddings
+
+Embeddings add context and meaning to each token—like detailed tags.
+
+4. Neural Network
+
+The AI explores possible connections and outputs using the neural network, which acts like railway switches.
+
+5. Self-Attention
+
+The model identifies relationships between tokens—tokens can “talk” to each other.
+
+6. Transformers
+
+Transformers handle self-attention, focusing on the most relevant connections for generating a response.
+
+7. Large Language Model (LLM)
+
+The model, trained with vast amounts of text, selects the best path using patterns learned from data.
+
+8. The Answer (Endpoint)
+
+The AI outputs the most probable answer based on the sequences and connections made:
+Example: “The capital of France is Paris.”
+
+This flow explains how a generative AI system processes a user prompt into a meaningful answer, step by step, using advanced neural networks and language models.
+===============================================================
+PROMPT acronym
+P - Purpose - Specify AI achievement, clarify prompt goal, State desired AI action
+R - Role - Define AI persona, choose AI role, Roles focus AI responses
+O - Output - Specify AI response structure, Define desired format, Request specific output type
+M - Markers - Set Ai guidelines, Define essential criteria, Establish AI requirements
+P - Patterns - Provide AI templates, Offer examples, Guide AI with patterns
+T - Tone - Define AI voice, Specify desired style, Set tone for AI
+
+=============================================================
+Aspect		Zero-shot	Few-shot	Chain-of-thought
+Purpose		✔		✔		✔
+Role		Optional	Optional	Optional
+Output		✔		✔		✔
+Markers		✔		✔		✔
+Patterns	✖		✔		Sometimes
+Tone		Optional	Optional	Optional
+
+When to use 
+Zero-shot prompt -
+Quick answers, creative ideas, tasks relying on general knowledge
+
+Few-shot prompt - 
+Tasks requiring a specific style or format, more specialized knowledge
+never provide confusing examples while providing the prompts it's as a part of patterns AI will get confused.
+
+Chain-of-thought prompting
+
+================================================================
+Notes:
+
+Zero-shot prompting
+Description: Leverages existing AI knowledge
+Benefits: Speed and efficiency
+
+Few-shot prompting
+Description: Teaches AI through examples
+Benefits: Customization and accuracy
+
+Chain-of-Thought prompting
+Description: Enables logical deduction and problem-solving
+Benefits: Reasoned, transparent, and logical outputs
+
+-----------------------------------------------------------------------------------------------------------
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+AI for Research, Learning and Content Creation
+===============================================
+AI:
+- Speeds up analysis
+- Understands and writes like humans
+- Summaries and simplifies
+- Visulizes data
+
+AI limitations: Verify AI outputs
+Data Privacy & Security: Protect sensitive information
+Ethics: Use AI responsibly
+
+Traditional Research	AI-Assisted Research
+Slow			Fast
+Overwhelming		Efficient
+Time-Consuming		Streamlined
+Writer's Block		Insights
+Manual			ChatGPT, Copilot
+
+============================================================================================================
+Pareto Principle or 80/20 principle
+- result of 80% achieved from 20% of effort
+- other of other 20% achieved from 80% of effort
+
+Ex. prompt: Summarize the text highlight the 20% of information that contributes to 80% of key insights
+
+Precise pointing by role
+Journlist
+Scientist
+Lawyer
+Marketing Specilist
+
+Differnt types of summaries
+One-sentence summary
+Methodology focus
+Audience specific summaries
+Source -referneced summaries : Factual summary verification
+
+Pitfalls of AI
+Biased or inaccurate results
+Knowledge limited to training data
+Doouble check the information
+                                                                                                                                                                                                                                                                                                                                                                                                                    
