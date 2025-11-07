@@ -252,3 +252,26 @@ Project Planner (Hands-On Application)
 Design a project to apply the topic, including goals, steps, and pitfalls.
 Example: Build and test a basic website, plan stages, gather resources, track challenges, and avoid scope creep.
 Ideal for practical, real-world learning.
+=============================================================================================================================
+
+AI for voice over - 11ElevenLAbs tool
+=============================================================================================================================
+
+Red flag checklist for AI
+- Repetitive Phrases - Cut the repetition for concise, impactful writing.
+- Generic Language - inject your personality and brand voice to make it uniquely yours.
+- Factual errors - Always verify facts
+- Awkward sentences - If it sounds clunky, re-write it for clarity and smooth flow.
+_ Missing Content - ensure your content is comprehensive and stands alone.
+- Inconsistencies - Maintain a consistent voice from start to finish.
+- Vagueness - Be precise and impactful with every word.
+- Bias - Actively review for fairness, inclusivity and ethical messaging
+===============================================================================================================================
+
+AI-led image generation - Midjourney
+--ar refers to aspect ratio 1:1 4:6 
+--q  quality varies from 0.25 to 2
+--s s refers stylize 0 to 1000
+================================================================================================================================
+
+AI video creation - Sora
