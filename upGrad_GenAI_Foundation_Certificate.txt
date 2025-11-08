@@ -275,3 +275,73 @@ AI-led image generation - Midjourney
 ================================================================================================================================
 
 AI video creation - Sora
+--------------------------------------------------------------------------------------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Data to Decisions: AI-Driven Analytics and Reporting
+----------------------------------------------------
+Data Cleaning and Analysis with AI
+
+- Identify missing data
+- Ensure consistent formats
+- Clean text fields
+- Remove duplicates
+- Check for errors
+- Double -check AI changes
+
+Dirty data causes bad decisions:
+---------------------------------
+Leads to inaccurate analysis
+Results in misleading insights
+Causes poor predictions
+Wastes time and resources
+Creates flawed business strategies
+
+AI data cleaning and analysis checklist:
+----------------------------------------
+Identify missing values
+Standardize formats
+Clean text fields
+Remove duplicate entries
+Check for anomalies/outliers
+Calculate descriptive statistics
+Identify trends and patterns
+Generate visualizations
+Always double-check AI’s work
+==================================================================================================================================
+
+Data Detective: USing AI for Exploratory Data Analysis (EDA)
+-------------------------------------------------------
+Exploratory Data Analysis (EDA) with AI as shown in the image:
+
+Understand the Basics
+Before delving deep into the data, start by computing basic descriptive statistics such as mean and median. This foundational step provides a summary of the dataset’s central tendencies and variability, helping to establish a general sense of the data and highlight any unusual values that may require further investigation.
+
+Find Patterns
+Analyze the data to uncover trends, relationships, and anomalies. This involves identifying underlying structures, connections between variables, and any deviations that might indicate special cases or errors. Pattern recognition helps in understanding data distribution and prepares the groundwork for deeper analysis.
+
+Visualize
+Use charts and graphs to represent data visually. Visualization makes it easier to detect patterns, relationships, and trends, and to communicate insights effectively. Creating visual stories from the raw data is essential to make findings clear and accessible to both technical and non-technical audiences.
+
+Formulate Hypotheses
+Based on insights gained from the analysis and visualizations, develop initial hypotheses. These hypotheses form the basis for further investigation, testing, and validation as part of the analytical workflow. Hypothesis formulation is a critical step that leads to actionable data-driven decisions.
+
+===================================================================================================================================
+
+From Data to Story: Tailoring Your Narrative
+----------------------------------------------
+A compelling data story connects emotionally, making data meaningful and prompting action.
+Adapting a narrative to suit its audience increases the story’s impact and memorability.
+The PROMPT framework can be used to adjust the role and tone for creating customized narratives.
+===================================================================================================================================
+
+"Building Impactful Data Stories with AI":
+-------------------------------------------
+Start with clean and analyzed data as the foundation.
+Identify and communicate key findings from the data.
+Create tailored narratives to connect with your specific audience.
+Use supporting visuals to strengthen and clarify your story.
+Aim for a compelling data story that drives understanding and action.
+===================================================================================================================================
+
+
