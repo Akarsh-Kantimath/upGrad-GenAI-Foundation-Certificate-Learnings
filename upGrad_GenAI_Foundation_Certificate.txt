@@ -342,6 +342,104 @@ Identify and communicate key findings from the data.
 Create tailored narratives to connect with your specific audience.
 Use supporting visuals to strengthen and clarify your story.
 Aim for a compelling data story that drives understanding and action.
+----------------------------------------------------------------------------------------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+AI-Powered Problem-Solving, Brainstroming and Prototyping
+---------------------------------------------------------
+AI for Problem Framing
+------------------------
+1. The 5 why 
+2. Problem Decomposition
+3. Data Gathering - Evidenece, Context, Insight, AI can analyzr datasets - identify patterens - summarize data
+
+Problem-Framing Techniques
+1. Problem Decomposition
+Break the problem down into smaller, more manageable "bite-sized" chunks or sub-problems.
+2. The 5 Why's
+Start with the problem and repeatedly ask "why" to dig deeper and find the fundamental reason.
+3. Data Gathering
+Effective problem framing needs data as the fuel to work with.
+====================================================================================================================================
+AI for Problem Solving: the Solve Framework
+
+S - Situvation
+O - Obstacle
+L - Limitations
+V - Vision
+E - Expectations
+
+The SOLVE Blueprint for Problem-Framing
+
+Situation:
+Describe the current state and specific problem.
+Obstacles:
+Identify the challenges and roadblocks.
+Limitations:
+Define constraints such as time, resources, etc.
+Vision:
+State the desired outcome or goal.
+Expectations:
+Outline key requirements and stakeholder needs.
 ===================================================================================================================================
 
+AI-Powered Solution Navigator: Key Steps
 
+SOLVE Problem Statement:
+Begin with a clearly defined problem using the SOLVE framework.
+Idea Generation:
+Use few-shot learning and iterative prompting to brainstorm potential solutions.
+Role-Playing:
+Explore the problem from multiple perspectives for deeper insights.
+Scenario Planning:
+Analyze both "Best Case" and "Worst Case" scenarios to anticipate outcomes.
+Evaluation Matrix:
+Assess ideas based on cost, impact, and feasibility.
+Selected Solution:
+Choose the most effective solution from evaluated options.
+This sequence moves from problem definition to AI-guided brainstorming and evaluation, leading to an informed solution.
+==================================================================================================================================
+
+AI tool for coding - Claude.ai
+==================================================================================================================================
+
+AI for prototyping: From Idea to Wireframe
+-------------------------------------------
+- Speed: Accelerates prototype development
+- Cost: Minimizes prototyping expenses
+- Exploration: Expands design possibilities
+- Data-driven Iteration: Simultes user iteractions
+
+AI Prototyping: From Concept to Implementation
+------------------------------------------------
+Text-Based Wireframes and Concepts (Low Fidelity):
+Generated using ChatGPT
+Focuses on descriptions, user flows, and outlining ideas
+
+Visual Prototypes (Mid Fidelity):
+Created with ChatGPT + PowerPoint
+Includes layouts, basic UI elements, and mock-ups
+
+Code Snippets and Basic Functionality (High Fidelity):
+Built using ChatGPT
+Covers JavaScript, local storage, and interactive elements
+The flow transitions from low-fidelity text concepts to high-fidelity, interactive prototypes, leveraging AI tools at every stage.
+==================================================================================================================================
+
+AI for Design: Major Challenges
+-------------------------------
+Over-reliance on AI:
+Avoid accepting AI output blindly; always apply human judgment and insight.
+
+Limited Creativity:
+AI can be repetitive—add your own creative ideas for originality.
+
+Lack of Human Intuition:
+AI might miss subtle design and user experience nuances that people naturally notice.
+
+Ignoring Real User Feedback:
+AI feedback is helpful, but real user testing remains essential and cannot be replaced.
+Keep these challenges in mind to balance AI capabilities with essential human expertise in the design process.
+==================================================================================================================================
+
+Customs gpts
+https://chatgpt.com/gpts
